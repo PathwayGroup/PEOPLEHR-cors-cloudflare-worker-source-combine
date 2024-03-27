@@ -55,8 +55,8 @@
           let apiUrl;
           const channel = url.searchParams.get("channel");
         
-          const API_URL_CHANNEL_1 = "https://pathwaygroup.peoplehr.net/Pages/JobBoard/CurrentOpenings.aspx?o=4d477c73-5587-4790-9a5b-14d395d2413c";
-          const API_URL_CHANNEL_2 = "https://pathwaygroup.peoplehr.net/Pages/JobBoard/CurrentOpenings.aspx?o=6cc14916-ecc3-439f-87fa-f8cb22b886fc";
+          const API_URL_CHANNEL_1 = "https://www.domain.net/Pages/JobBoard/CurrentOpenings.aspx?o=000-5587-4790-9a5b-00";
+          const API_URL_CHANNEL_2 = "https://www.domain.net/Pages/JobBoard/CurrentOpenings.aspx?o=0000-ecc3-439f-87fa-00";
           const API_URL_CHANNEL_3 = ''
 
     
